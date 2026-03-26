@@ -1,6 +1,6 @@
 # 🐛 BugTrackr — Issue Tracking System
 
-A full-stack bug tracking application built with React, Node.js, Express, and MongoDB.
+A full-stack bug tracking application built with React, Node.js, Express, and Mongo DB.
 
 ---
 
